@@ -57,3 +57,6 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+cling-distribution-2.0.1/
+cling-distribution-2.0.1.zip

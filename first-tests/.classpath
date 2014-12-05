@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/seamless-http-1.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/seamless-util-1.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/seamless-xml-1.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/cling-core-2.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
